@@ -46,3 +46,8 @@ button {
 #weatherIcon {
     font-size: 48px;
 }
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+}
